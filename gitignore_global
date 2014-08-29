@@ -24,3 +24,6 @@
 .Trashes
 
 .idea
+
+#Temp bash script with utilities
+tmp_utils.sh
